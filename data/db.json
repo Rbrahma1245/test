@@ -1,0 +1,57 @@
+{
+  "PROJECT_DETAILS_ROW": [
+    {
+      "id": "1",
+      "title": "DMS",
+      "fileName": "dms.doc",
+      "description": "Database Management Sysytem",
+      "documentCategory": "Client ",
+      "version": "1.0.1"
+    },
+    {
+      "id": "2",
+      "projectId": 2,
+      "projectCode": "DMS 2",
+      "title": "DMS 2",
+      "fileName": "dms2.doc",
+      "description": "Database Management Sysytem Second Updated",
+      "documentCategory": "Server",
+      "version": "1.1.1"
+    },
+    {
+      "id": "3",
+      "projectId": 3,
+      "projectCode": "DMS 2",
+      "title": "DMS 2",
+      "fileName": "dms2.doc",
+      "description": "Database Management Sysytem Second Updated",
+      "documentCategory": "Server",
+      "version": "1.1.1"
+    },
+    {
+      "id": 101,
+      "title": "ELIT",
+      "fileName": "elit.doc",
+      "description": "Elite management",
+      "documentCategory": "server",
+      "version": "2.0.1"
+    },
+    {
+      "id": "a067b538-4127-4266-9bb3-380edc2cc8b3",
+      "title": "Elit",
+      "fileName": "elit.doc jahsjcha",
+      "description": "Database Management Sysytem",
+      "documentCategory": "database",
+      "version": "2.1.0"
+    },
+    {
+      "id": "dcb69f9f-1e8d-4cbc-9e30-8659068861dc",
+      "title": "zz",
+      "fileName": "zzzzz",
+      "description": "zzz",
+      "documentCategory": "zzz",
+      "version": "5.0.1",
+      "file": "C:\\fakepath\\Room Aggreemenet.pdf"
+    }
+  ]
+}
